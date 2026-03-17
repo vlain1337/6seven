@@ -1,6 +1,6 @@
-not sharing the full deobfuscated menu script, do it ur self<br>
+not sharing the full deobfuscated menu script, do it ur self
 
-<img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/ger.png">
+<br><img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/ger.png">
 
 <img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/nig.png">
 
