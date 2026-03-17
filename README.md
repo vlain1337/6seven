@@ -1,4 +1,4 @@
-not sharing the full deobfuscated menu script, do it ur self
+not sharing the full deobfuscated menu script, do it ur self<br>
 
 <img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/ger.png">
 
