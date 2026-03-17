@@ -1,1 +1,9 @@
 just for fun :D
+
+<img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/ger.png">
+
+<img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/nig.png">
+
+<img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/..png">
+
+<img src="https://raw.githubusercontent.com/vlain1337/6seven/refs/heads/main/img/fah.png">
